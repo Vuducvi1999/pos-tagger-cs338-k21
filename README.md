@@ -18,4 +18,5 @@
 - #### command prompt 1
        npm run start-backend
 - #### command prompt 2
-       npm run start-frontend
+       window case: npm run start-backend-window
+       linux case: npm run start-backend-linux
