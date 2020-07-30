@@ -16,7 +16,7 @@
   "scripts": {
     "start-frontend": "react-scripts start",
     "start-backend-window": "cd backend && env\\Scripts\\activate && flask run",
-    "start-backend-macos": "cd backend && source env/Scripts/activate && flask run",
+    "start-backend-linux": "cd backend && source env/Scripts/activate && flask run",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
