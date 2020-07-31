@@ -16,7 +16,7 @@
 # Step 3
 - #### on command go back  dir /pos-tagger-cs338-k21 
 - #### command prompt 1
-       npm run start-backend
+       npm run start-frontend
 - #### command prompt 2
        window case: npm run start-backend-window
        linux case: npm run start-backend-linux
